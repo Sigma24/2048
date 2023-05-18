@@ -1,2 +1,2 @@
-# CSDS-221-Project-3
+# 2048
  Javascript 2048 Game
